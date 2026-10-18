@@ -15,4 +15,4 @@ Backend engineer in Seoul. Native Korean and native-level English (about 15 year
 
 ## Contact
 
-jaelee0409@gmail.com
+jaelee0409@gmail.com · [LinkedIn](https://www.linkedin.com/in/jaelee7)
