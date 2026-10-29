@@ -10,8 +10,8 @@ Backend engineer in Seoul. Native Korean and native-level English (about 15 year
 
 - [easygongsi-architecture](https://github.com/jaelee0409/easygongsi-architecture): how EasyGongsi ingests DART filings, scores them, sends alerts, and bills subscriptions, with its known limitations and planned fixes.
 - [ticket-lab](https://github.com/jaelee0409/ticket-lab): a Spring Boot seat-booking API. Double bookings went from 5–18 per run to 0, and four locking strategies and a no-lock baseline were load-tested with k6.
-- [jubabi](https://github.com/jaelee0409/jubabi): the Android app EasyGongsi grew out of (React Native, Express; Aug 2025 – Sep 2026, stopped). Fixed a recipient query that matched every user, and duplicate pushes after restarts.
-- [Nana-Portfolio](https://github.com/jaelee0409/Nana-Portfolio): [nanaan.art](https://www.nanaan.art), a Next.js, Sanity, and Stripe site for an artist in the family, who adds works and sets prices herself in Sanity. Live for over 3 years.
+- [jubabi](https://github.com/jaelee0409/jubabi): the Android app EasyGongsi grew out of (React Native, Express; built Aug – Sep 2025, retired Sep 2026). Fixed a recipient query that would have matched every user, and duplicate pushes after restarts.
+- [Nana-Portfolio](https://github.com/jaelee0409/Nana-Portfolio): [nanaan.art](https://www.nanaan.art), a Next.js, Sanity, and Stripe site for an artist, who adds works and sets prices herself in Sanity. Live for over 3 years.
 
 ## Contact
 
